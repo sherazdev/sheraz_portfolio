@@ -203,7 +203,7 @@
                                 </li>
                                 <li>
                                     Sanmiwago 
-                                    <span>Cart Page Handler</span>
+                                    <span>Cart Page  Handler</span>
                                 </li>
                             </ul>
                         </div> <!--end s-about__block -->
